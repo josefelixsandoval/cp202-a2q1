@@ -1,4 +1,4 @@
-# Question 1 for Assignment 1 (1%)
+# Question 1 for Assignment 2 (0.5%)
 
 This question will help you practice your knowledge of website file structures,
 as we discussed in class.
@@ -6,7 +6,7 @@ as we discussed in class.
 If you need a refresher, go here 
 https://github.com/josefelixsandoval/wlu/blob/master/WEBSITE_ARCHITECTURE.md.
 
-> Don't overthink the solution for this section. It's very simple. It's exactly as I describe it: all you have to do is rename and move around folders and files. Do exactly as explained in class. This is not a trick question.
+> Don't overthink the solution for this section. It's very simple. It's exactly as I describe it: all you have to do is rename and move around folders and files. Do exactly as explained in class when I went over the solution for A1Q1. This is not a trick question.
 
 # Description
 In this repo you will find a few folders and files. There are a few sub folders, and you must look at each of them. Most folders have README.txt files.
@@ -20,13 +20,13 @@ Most files and folders are named incorrectly, if you compare their names to our 
 For example, 's2' could be interpreted to mean 'section 2 of something.'
 
 # Your Solution for Question 1
-Your job is to create a proper folder structure that could be deployed as a website. 
+Your job is to create a proper folder structure that could be deployed as a website, exactly as I described in class when I went over the solution for A1Q1.
 
 It's a small website, with three sections: resume, projects, and products.
 
 > To reiterate, all you have to do is create a structure similar to what we have done in class. 
 
-This is just an exercise to move files around and renaming them to look like a proper website.
+This is just an exercise to move files around and renaming them to look like a proper website and get and easy 0.5% mark.
 
 You do have to think a bit: for example, what should you rename a file called 'js.js'? 
 > Hint: look at the context of where it is (or it should be) and then rename it accordingly.
